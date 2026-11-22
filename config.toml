@@ -4,7 +4,7 @@ title = "PRINTMETAL3D"
 
 [params]
 ogImage       = "/images/13-batch-build-plate-overhead.png"
-  description = "Metal additive manufacturing news, research, and services. DMLS, SLM, EBM coverage for aerospace, medical, and industrial applications."
+  description = "PRINT METAL 3D is a PrintWire network site about metal 3D printing. PrintWire passes quote requests to specialised manufacturers and returns pricing. PrintWire does not manufacture parts itself."
   siteName = "PRINTMETAL3D"
 logoHtml = 'PRINTMETAL<span class="ed-logo-accent">3D</span>'
   tagline = "The authoritative source for metal additive manufacturing news"
